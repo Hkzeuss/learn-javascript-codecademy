@@ -1,0 +1,12 @@
+# Năm ngoái, hàng triệu học viên từ cộng đồng của chúng tôi bắt đầu học JavaScript.
+Tại sao lại là JavaScript? JavaScript chủ yếu được biến đến là ngôn ngữ của hầu hết các trình duyệt web hiện đại, và những tính năng khởi đầu của nó đã khiến nó có 1 chút tiếng xấu.
+Tuy nhiên, ngôn ngữ này đã tiếp tực tiến hóa và cải thiện.
+JavaScript là một ngôn ngữ lập trình mạnh mẽ, linh hoạt và nhanh chóng, hiện đang được sử dụng cho phát triển web ngày càng phức tạp hơn và nhiều hơn nữa!
+
+# Vì JavaScript vẫn nằm ở trung tâm của phát triển web, thường là ngôn ngữ đầu tiên mà những lập trình viên tự học háo hức để học và xây dựng.
+Chúng tôi rất mong đợi những gì bạn có thể tạo ra với nền tảng JavaScript mà bạn sẽ đạt được ở đây.
+JavaScript là nền tảng mạnh mẽ đằng sau hành vi động trên hầu hết các trang web.
+
+#Trong bài học này, bạn sẽ học được những khái niệm cơ bản của lập trình bao gồm các loại dữ liệu và đối tượng tích hợp - những kiến thức cần thiết cho tất cả nhà phát triển đam mê.
+Hãy chắc chắn ghi chú và điều chỉnh tốc độ học của bạn.
+Nền tảng này sẽ giúp bạn chuẩn bị tốt cho việc hiểu các khái niệm phức tạp hơn mà sau này bạn sẽ gặp phải.
