@@ -1,0 +1,36 @@
+# Chào Mừng Bạn Đến Với Khóa Học JavaScript!
+
+# Một tổng quan ngắn gọn về những gì bạn sẽ học trong khóa học này.
+
+# Bạn sẽ học gì?
+- Trong khóa học này, bạn sẽ học về các kiến thức cơ bản lập trình với cú pháp JavaScript. 
+Các khái niệm được bao gồm trong khóa học này đặt nền tảng cho việc sử dụng JavaScript cho bất kỳ môi trường nào.
+
+# Sau khóa học này, bạn sẽ có khả năng:
+- Thực hiện các loại dữ liệu, phương thức tích hợp và biến JavaScript. 
+- Sử dụng điều kiện để điều khiển luồng của một phương trình trong JavaScript. 
+- Xây dựng các hàm và truyền dữ liệu thông qua chúng.
+- Xác định phạm vi toàn cầu và phạm vi cấp khối trong JavaScript.
+- Sử dụng mảng để lưu trữ danh sách dữ liệu.
+- Sử dụng vòng lặp để thực thi các khối mã nhiều lần.
+- Sử dụng các phương thức vòng lặp để đơn giản hóa quá trình lặp qua các mảng.
+- Sử dụng cú pháp đối tượng JavaScript ES6 để mô hình hóa các mục tiêu thực tế.
+
+# Học tập là cả 1 quá trình xã hội. Bất kỳ điều gì bạn đang làm việc trên, hãy kết nối với cộng đồng Codecademy trong diễn đàn.
+- Hãy nhớ kiểm thường xuyên với cộng đồng, bao gồm việc yêu cầu xem lại mã của bạn trong công việc dự án và cung cấp xem lại mã cho người khác trong danh mục dự án, điều này có thể giúp củng cố những gì bạn đã học.
+
+# Bạn sẽ tạo ra gì?
+- Trong suốt khóa học này, bạn sẽ được giao nhiệm vụ và áp dụng các khái niệm đã học vào các dự án.
+- Đây là 1 cái nhìn trước về một số dự án được giới thiệu trong khóa học này:
+
+  + Thời tiết Kelvin (Kelvin Weather)
+    - Xây dựng thành thạo về các nền tảng cơ bản của JavaScript bằng cách thực hành biến và in ra màn hình để tạo ra một bộ chuyển đổi nhiệt độ.
+
+  + Máy tính thời gian ngủ thiếu (Sleep Debt Calculator) 
+    - Thực hành hàm để giúp chúng ta xây dựng sự tách biệt của mối quan tâm bằng cách xây dựng một máy tính để cho chúng ta biết liệu chúng ta có đủ giấc ngủ trong tuần hay không.
+
+  + Whale Talk
+    - Thông thạo nghệ thuật lặp bằng cách tạo 1 chương trình nói chuyện giống như 1 con cá voi!
+
+-> Các dự án trên sẽ giúp bạn thực hiện xây dựng sự thành thạo trong JavaScript.
+-> Chúng tôi rất hồi hộp khi bạn bắt đầu hành trình của mình vào học JavaScript.
