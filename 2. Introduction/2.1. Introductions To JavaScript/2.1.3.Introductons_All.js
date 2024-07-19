@@ -69,6 +69,7 @@ console.log(`Billy is ${6 + 8} years old`);
 
 // Từ khóa let
 // let tạo ra một biến cục bộ trong JavaScript và có thể được gán lại. Việc khởi tạo trong khi khai báo một biến let là tùy chọn. Một biến let sẽ chứa undefined nếu không có gì được gán cho nó.
+
 let count;
 console.log(count);
 count = 10;
@@ -78,15 +79,28 @@ console.log(count);
 
 // Từ khóa const
 // Một biến hằng số có thể được khai báo bằng từ khóa const. Nó phải có một giá trị được gán. Bất kỳ nỗ lực nào để gán lại một biến const sẽ dẫn đến lỗi runtime của JavaScript.
+
 const numberOfcolums = 4;
 numberOfcolums = 8; // Sẽ có lỗi: TypeError: Assignment to constant variable. Do const không thể được gán giá trị mới sau khi đã được khởi tạo. Có thể dùng let làm tương tự nhưng không lỗi. Const thì không được làm vậy.
 //------------------------------------------------------------------------------------------------------------------------------
 
+
 // Nối chuỗi
 // Trong JavaScript, nhiều chuỗi có thể được nối lại với nhau bằng cách sử dụng toán tử +. Trong ví dụ, nhiều chuỗi và các biến chứa giá trị chuỗi đã được nối lại. Sau khi thực thi khối mã, biến displayText sẽ chứa chuỗi đã được nối.
 
+let service = 'credit card';
+let month = 'May 30th';
+let displayText = 'Your' + service + ' bill is due on' + month + '.';
+console.log(displayText);
+//------------------------------------------------------------------------------------------------------------------------------
+
+
 // console.log()
 // Phương thức console.log() được sử dụng để ghi hoặc in các thông báo ra console. Nó cũng có thể được sử dụng để in đối tượng và thông tin khác.
+
+console.log('Hello World');
+//------------------------------------------------------------------------------------------------------------------------------
+
 
 // JavaScript
 // JavaScript là một ngôn ngữ lập trình điều khiển hành vi động trên hầu hết các trang web. Cùng với HTML và CSS, nó là một công nghệ cốt lõi giúp web hoạt động.
@@ -94,6 +108,7 @@ numberOfcolums = 8; // Sẽ có lỗi: TypeError: Assignment to constant variabl
 // Phương thức
 // Phương thức trả về thông tin về một đối tượng và được gọi bằng cách nối một instance với dấu chấm ., tên phương thức, và dấu ngoặc đơn.
 
+Math.random(); // Trả về một số trong khoảng từ 0 - 1
 // Đối tượng tích hợp sẵn
 // Đối tượng tích hợp sẵn chứa các phương thức có thể được gọi bằng cách nối tên đối tượng với dấu chấm ., tên phương thức, và một bộ dấu ngoặc đơn.
 
