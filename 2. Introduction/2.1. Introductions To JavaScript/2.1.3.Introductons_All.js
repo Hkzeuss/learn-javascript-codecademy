@@ -1,9 +1,17 @@
 // Toán tử gán
 // Một toán tử gán gán một giá trị cho toán hạng bên trái của nó dựa trên giá trị của toán hạng bên phải. Dưới đây là một số toán tử gán:
-// += toán tử gán cộng
-// -= toán tử gán trừ
-// *= toán tử gán nhân
-// /= toán tử gán chia
+//  += toán tử gán cộng
+//  -= toán tử gán trừ
+//" *= toán tử gán nhân
+//  /= toán tử gán chia
+
+let number = 100;
+// Cả 2 câu lệnh đều + thêm 10
+number = number + 10;
+number += 10;
+console.log(number);
+//---------------------------------------------------------------------------------------------------------------------------
+
 
 // Nội suy chuỗi
 // Nội suy chuỗi là quá trình đánh giá các chuỗi ký tự chứa một hoặc nhiều trình giữ chỗ (biểu thức, biến, v.v.).
