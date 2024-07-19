@@ -17,29 +17,70 @@ console.log(number);
 // Nội suy chuỗi là quá trình đánh giá các chuỗi ký tự chứa một hoặc nhiều trình giữ chỗ (biểu thức, biến, v.v.).
 // Nó có thể được thực hiện bằng cách sử dụng template literals: text ${expression} text.
 
+let age = 7;
+// Nối chuỗi
+"Tommy is" + age + "years old";
+// Nội suy chuỗi
+`Tommy is ${age} years old`; // Phải là dấu ` ` chứ không phải ' ' hoặc " " đâu nhé
+//------------------------------------------------------------------------------------------------------------------------------
+
+
 // Biến
 // Biến được sử dụng khi cần lưu trữ một đoạn dữ liệu. Một biến chứa dữ liệu có thể được sử dụng trong chương trình ở nơi khác. Sử dụng biến cũng đảm bảo khả năng tái sử dụng mã vì nó có thể được sử dụng để thay thế cùng một giá trị ở nhiều nơi.
+
+const currency = '$';
+let userIncome = 85000;
+// In ra: $85000 nhiều hơn thu nhập trung bình
+console.log(currency + userIncome + ' is more than the average income.' );
+//------------------------------------------------------------------------------------------------------------------------------
+
 
 // Undefined
 // undefined là một giá trị nguyên thủy của JavaScript đại diện cho sự thiếu giá trị được xác định. Các biến được khai báo nhưng không được khởi tạo giá trị sẽ có giá trị là undefined.
 
+var a;
+// In ra Undefined 
+console.log(a);
+//------------------------------------------------------------------------------------------------------------------------------
+
+
 // Học JavaScript: Biến
 // Một biến là một hộp chứa dữ liệu được lưu trữ trong bộ nhớ máy tính. Nó được tham chiếu bởi một tên mô tả mà lập trình viên có thể gọi để gán một giá trị cụ thể và truy xuất nó.
-
 // Khai báo biến
 // Để khai báo một biến trong JavaScript, có thể sử dụng bất kỳ từ khóa nào trong ba từ khóa sau cùng với một tên biến:
 // var được sử dụng trong các phiên bản JavaScript trước ES6.
 // let là cách ưa thích để khai báo một biến khi nó có thể được gán lại.
 // const là cách ưa thích để khai báo một biến với giá trị hằng số.
 
-// Template Literals
+var age1; // Không khai báo biến age được vì đã được khai báo trước đó ở bên trên rồi.
+let weight;
+const numberOffingers = 20;
+//------------------------------------------------------------------------------------------------------------------------------
+
+
+// Template Literals (Chuỗi nội suy - Chuỗi mẫu)
 // Template literals là các chuỗi cho phép nhúng biểu thức, ${expression}. Trong khi các chuỗi thông thường sử dụng dấu nháy đơn ' hoặc dấu nháy kép ", template literals sử dụng dấu backticks.
+
+let name1 = "Codecademy";
+console.log(`Hello ${name1}`);
+console.log(`Billy is ${6 + 8} years old`);  
+//------------------------------------------------------------------------------------------------------------------------------
+
 
 // Từ khóa let
 // let tạo ra một biến cục bộ trong JavaScript và có thể được gán lại. Việc khởi tạo trong khi khai báo một biến let là tùy chọn. Một biến let sẽ chứa undefined nếu không có gì được gán cho nó.
+let count;
+console.log(count);
+count = 10;
+console.log(count);
+//------------------------------------------------------------------------------------------------------------------------------
+
 
 // Từ khóa const
 // Một biến hằng số có thể được khai báo bằng từ khóa const. Nó phải có một giá trị được gán. Bất kỳ nỗ lực nào để gán lại một biến const sẽ dẫn đến lỗi runtime của JavaScript.
+const numberOfcolums = 4;
+numberOfcolums = 8; // Sẽ có lỗi: TypeError: Assignment to constant variable. Do const không thể được gán giá trị mới sau khi đã được khởi tạo. Có thể dùng let làm tương tự nhưng không lỗi. Const thì không được làm vậy.
+//------------------------------------------------------------------------------------------------------------------------------
 
 // Nối chuỗi
 // Trong JavaScript, nhiều chuỗi có thể được nối lại với nhau bằng cách sử dụng toán tử +. Trong ví dụ, nhiều chuỗi và các biến chứa giá trị chuỗi đã được nối lại. Sau khi thực thi khối mã, biến displayText sẽ chứa chuỗi đã được nối.
