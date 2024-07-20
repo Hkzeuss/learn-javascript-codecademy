@@ -37,5 +37,7 @@ console.log(11 % 3); // In ra 2
 console.log(12 % 3); // In ra 0
 console.log(12 % 3); // In ra 0
 console.log(12 % 3); // In ra 0
+console.log(12 % 3); // In ra 0
+console.log(12 % 3); // In ra 0
 /* Toán tử dư, đôi khi được gọi là modulo, trả về số dư của kết quả chia đó. 11 / 3 thì được 3 và dư 2. Nên kết quả cuối cùng sẽ là 2 và in ra màn hình.
 */
