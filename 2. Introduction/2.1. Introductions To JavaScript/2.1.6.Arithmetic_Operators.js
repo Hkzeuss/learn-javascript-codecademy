@@ -35,8 +35,7 @@ Nếu chúng ta muốn in các ký tự "3 + 4", chúng ta sẽ phải học ch�
 
 console.log(11 % 3); // In ra 2
 console.log(12 % 3); // In ra 0
-console.log(11 % 3); // In ra 2
-console.log(12 % 3); // In ra 0
+
 
 
 
