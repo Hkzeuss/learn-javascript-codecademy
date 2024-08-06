@@ -37,8 +37,7 @@ console.log(11 % 3); // In ra 2
 console.log(12 % 3); // In ra 0
 
 
-console.log(11 % 3); // In ra 2
-console.log(12 % 3); // In ra 0
+
 
 
 
