@@ -29,8 +29,7 @@ console.log(3 * 2); // In ra 6
 console.log(9 / 3); // In ra 3
 console.log(3 * 2); // In ra 6
 console.log(9 / 3); // In ra 3
-console.log(3 * 2); // In ra 6
-console.log(9 / 3); // In ra 3
+
 
 
 
