@@ -31,8 +31,7 @@ console.log(3 * 2); // In ra 6
 console.log(9 / 3); // In ra 3
 console.log(3 * 2); // In ra 6
 console.log(9 / 3); // In ra 3
-console.log(3 * 2); // In ra 6
-console.log(9 / 3); // In ra 3
+
 
 
 /* Lưu ý rằng khi chúng ta sử dụng "console.log()", máy tính sẽ đánh giá biểu thức trong dấu ngoặc đơn (...) và in ra kết quả ở bảng điều khiển.
