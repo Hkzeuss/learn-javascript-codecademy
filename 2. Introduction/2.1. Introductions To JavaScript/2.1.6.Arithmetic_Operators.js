@@ -26,9 +26,7 @@ Các toán tử này bao gồm các toán tử và ký hiệu tương ứng sau:
 console.log(1 + 2); // In ra 3
 console.log(2 - 1); // In ra 1
 console.log(3 * 2); // In ra 6
-console.log(9 / 3); // In ra 3
-console.log(1 + 2); // In ra 3
-console.log(2 - 1); // In ra 1
+
 
 
 
