@@ -37,8 +37,7 @@ console.log(1 + 2); // In ra 3
 console.log(2 - 1); // In ra 1
 console.log(3 * 2); // In ra 6
 console.log(1 + 2); // In ra 3
-console.log(2 - 1); // In ra 1
-console.log(3 * 2); // In ra 6
+
 
 
 
